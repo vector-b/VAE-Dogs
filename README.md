@@ -1,3 +1,8 @@
 BLESSED README FILE
 
-Este projeto trata-se de utilizar VAEs em um dataset de raças de cachorro (imagens aleatórias) para gerar novo conteúdo, como misturas entre raças!
+Este projeto é um experimento de Deep Learning utilizando VAEs!
+
+A ideia principal é utilizar um dataset de várias imagens de cachorros de raças distintas e gerar novas espécies a partir delas.
+
+
+
