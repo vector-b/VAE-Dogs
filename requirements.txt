@@ -1,0 +1,4 @@
+tensorflow==2.5.1
+keras
+PIL
+numpy==1.19.5
