@@ -3,7 +3,7 @@ BLESSED README FILE
 Este projeto é um experimento de Deep Learning utilizando VAEs!
 
 A ideia principal é utilizar um dataset de várias imagens de cachorros de raças distintas e gerar novas espécies a partir delas. As etapas de desenvolvimento estão no notebook *VAE-Dogs.ipynb*
-Os Dados utilizados podem ser obtidos em Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
+Os Dados utilizados podem ser obtidos em [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
 
 Os requisitos do projeto estão no arquivo *requirements.txt* e podem ser instalados utilizando:
 
